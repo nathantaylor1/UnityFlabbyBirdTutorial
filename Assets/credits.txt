@@ -1,0 +1,5 @@
+Credits:
+Project Creator: Nathan Taylor
+Project Assets, Idea, and Tutorial: 
+	- Making A Flappy Bird Style Game by Unity Technologies
+		https://learn.unity.com/tutorial/live-session-making-a-flappy-bird-style-game
